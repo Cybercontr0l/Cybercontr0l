@@ -1,9 +1,4 @@
 # iOS Developer 
-
-<div align="center">
-  <img src="https://via.placeholder.com/390x844" width="390" style="border-radius: 2rem; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);">
-</div>
-
 <div align="center">
   <h2>👋 Hello, I’m Denis Dil</h2>
   <p>📱 iOS Developer</p>
@@ -28,7 +23,7 @@
 ### Contact Me
 
 - 📧 Email: [dendil@inbox.ru](mailto:dendil@inbox.ru)
-- 🌐 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/denisdil)
+- 🌐 LinkedIn: [linkedin.com/in/denisdil](https://linkedin.com/in/denisdil)
 
 <div align="center">
   <p>"Coding the future of iOS, one app at a time."</p>
